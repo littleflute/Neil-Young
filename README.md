@@ -1,4 +1,4 @@
-[v0.0.7](https://github.com/littleflute/Neil-Young/edit/master/README.md)
+[v0.0.8](https://github.com/littleflute/Neil-Young/edit/master/README.md)
 
 [Re-ac-tor](https://littleflute.github.io/Neil-Young/Neil%20Young%20&%20Crazy%20Horse/Re-ac-tor/)
 
@@ -7,3 +7,5 @@
 [Bluenote Cafe Disc 1](Bluenote Cafe Disc 1) [189M]
 
 [Bluenote Cafe Disc 2](Bluenote Cafe Disc 2) [116M]
+
+[Living with War](Living with War) [101M]
