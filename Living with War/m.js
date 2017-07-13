@@ -1,0 +1,12 @@
+var f = [];				
+f[0]	= "v0.0.9";			
+f[1]	= "01 After the Garden.mp3";		
+f[2]	= "02 Living with War.mp3";		
+f[3]	= "03 The Restless Consumer.mp3";		
+f[4]	= "04 Shock and Awe.mp3";		
+f[5]	= "06 Flags of Freedom.mp3";		
+f[6]	= "07 Let's Impeach the President.mp3";		
+f[7]	= "08 Lookin' for a Leader.mp3";		
+f[8]	= "09 Roger and Out.mp3";		
+f[9]	= "10 America the Beautiful.mp3";		
+f[10]	= "Families.mp3";		
