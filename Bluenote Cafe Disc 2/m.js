@@ -1,0 +1,13 @@
+var f = [];				
+f[0]	= "v0.0.9";			
+f[1]	= "01 I'm Goin'.mp3";		
+f[2]	= "02 Ordinary People.mp3";		
+f[3]	= "03 Crime in the City.mp3";		
+f[4]	= "04 Crime of the Heart.mp3";		
+f[5]	= "05 Welcome Rap.mp3";		
+f[6]	= "07 Fool for Your Love.mp3";		
+f[7]	= "08 Encore Rap.mp3";		
+f[8]	= "09 On the Way Home.mp3";		
+f[9]	= "10 Sunny Inside.mp3";		
+f[10]	= "11 Tonight's the Night.mp3";		
+f[11]	= "Doghouse.mp3";		
