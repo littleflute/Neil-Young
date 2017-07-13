@@ -1,0 +1,14 @@
+var f = [];				
+f[0]	= "v0.0.9";			
+f[1]	= "01 Welcome to the Big Room.mp3";		
+f[2]	= "02 Don't Take Your Love Away From Me.mp3";		
+f[3]	= "03 This Note's for You.mp3";		
+f[4]	= "04 Ten Men Workin'.mp3";		
+f[5]	= "05 Life in the City.mp3";		
+f[6]	= "06 Hello Lonely Woman.mp3";		
+f[7]	= "07 Soul of a Woman.mp3";		
+f[8]	= "08 Married Man.mp3";		
+f[9]	= "09 Bad News Comes to Town.mp3";		
+f[10]	= "10 Ain't It the Truth.mp3";		
+f[11]	= "11 One Thing.mp3";		
+f[12]	= "Twilight.mp3";		
